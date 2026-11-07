@@ -9,7 +9,7 @@ The objective of this project was to optimise a 2-stock portfolio with the goal 
 
 #
 
-<img align="left" width="250" height="150" src=""readme%20imgs/movie.png""> **[Movie Sentiment Classifier](https://github.com/aamberlloyd/ML-AI_Course_Repo/blob/main/Imperial%20Projects/Projects%20Using%20Naive%20Bayes/Movie%20Sentiment%20Classifier%20(Using%20Naive%20Bayes).ipynb)**
+<img align="left" width="250" height="150" src=""readme%20imgs/movie.jpg""> **[Movie Sentiment Classifier](https://github.com/aamberlloyd/ML-AI_Course_Repo/blob/main/Imperial%20Projects/Projects%20Using%20Naive%20Bayes/Movie%20Sentiment%20Classifier%20(Using%20Naive%20Bayes).ipynb)**
 
 This is a sentiment classifier which classifies movie reviews based on their content. A naive Bayes classifier was used to calculate the positive:negative ratio (likelihood ratio between a positive or negative review), achieving a 75% accuracy on the test set. A more robust sentiment classifier was also developed using aggregate votes (VotingClassifier) from different models (LinearSVC, Multinomial NB, Logisitic Regression), achieving an improved 81.5% accuracy on the test set.
 
@@ -27,7 +27,7 @@ This is a song recommender algorithm that recommends songs in the Spotify Tracks
 
 #
 
-<img align="left" width="250" height="150" src="readme%imgs/monty%20hall.png"> **[Simulating the Monty Hall Problem](https://github.com/aamberlloyd/ML-AI_Course_Repo/blob/9cce793bde3893826cd6078be4b66423a095cf4b/Imperial%20Projects/Simulation%20Problems/Simulated%20Monty%20Hall%20Problem%20-%20Monty%20Carlo%20Simulations.ipynb)**
+<img align="left" width="250" height="150" src="readme%imgs/montyhall.jpg"> **[Simulating the Monty Hall Problem](https://github.com/aamberlloyd/ML-AI_Course_Repo/blob/9cce793bde3893826cd6078be4b66423a095cf4b/Imperial%20Projects/Simulation%20Problems/Simulated%20Monty%20Hall%20Problem%20-%20Monty%20Carlo%20Simulations.ipynb)**
 
 This project simulates the monty hall problem, evaluating win rates across switch/stay strategies and analysing survival probabilities across many iterations in a modified version with a pay-out structure. 
 
